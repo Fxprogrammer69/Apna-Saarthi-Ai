@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "Right to Information (RTI)",
+      "description": "The Right to Information Act, 2005 allows Indian citizens to request information from public authorities. Any citizen can file an RTI application to get information about government activities, decisions, and policies.",
+      "keywords": ["RTI", "right to information", "information act", "transparency", "government information"],
+      "relevant_laws": ["Right to Information Act, 2005"],
+      "examples": ["You can file an RTI to know why your application was rejected or to get details of government contracts."]
+    },
+    {
+      "title": "Consumer Rights",
+      "description": "Consumer protection laws in India protect consumers from unfair trade practices, defective products, and deficient services. Consumers have the right to seek redressal for grievances.",
+      "keywords": ["consumer", "consumer rights", "defective product", "deficient service", "consumer protection"],
+      "relevant_laws": ["Consumer Protection Act, 2019"],
+      "examples": ["If you buy a defective product, you can file a complaint with the consumer forum within 2 years of purchase."]
+    },
+    {
+      "title": "Property Rights",
+      "description": "Property rights in India are governed by various laws including the Transfer of Property Act, 1882. Property can be acquired through purchase, inheritance, or gift.",
+      "keywords": ["property", "property rights", "land", "real estate", "ownership", "transfer of property"],
+      "relevant_laws": ["Transfer of Property Act, 1882", "Registration Act, 1908"],
+      "examples": ["Property transactions must be registered with the sub-registrar's office to be legally valid."]
+    },
+    {
+      "title": "Employment Rights",
+      "description": "Indian labor laws protect employees' rights including minimum wages, working hours, leave entitlements, and protection against unfair dismissal.",
+      "keywords": ["employment", "employee rights", "labor law", "minimum wage", "working hours", "leave"],
+      "relevant_laws": ["Industrial Disputes Act, 1947", "Minimum Wages Act, 1948", "Factories Act, 1948"],
+      "examples": ["Employees are entitled to paid leave, overtime compensation, and cannot be terminated without proper notice."]
+    },
+    {
+      "title": "Domestic Violence",
+      "description": "The Protection of Women from Domestic Violence Act, 2005 protects women from physical, emotional, sexual, and economic abuse within the household.",
+      "keywords": ["domestic violence", "women protection", "abuse", "harassment", "violence against women"],
+      "relevant_laws": ["Protection of Women from Domestic Violence Act, 2005"],
+      "examples": ["A woman can file a complaint with the protection officer or directly approach the magistrate for relief."]
+    }
+  ]
+}
+
