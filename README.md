@@ -1,6 +1,6 @@
-# Apna Saarhi - Legal Assistant
+# Apna Saarthi AI - Legal Assistant
 
-An AI-powered legal assistant that helps users understand legal concepts, rights, and laws in India.
+Apna Saarthi AI is a WhatsApp-based legal assistant that delivers clear, conversational guidance on Indian laws. It helps users understand rights, processes, and basic documentation through an always-on, chat-first AI experience—simple, fast, and accessible to everyone.
 
 ## Features
 
@@ -92,3 +92,9 @@ TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
 
 See `.env.example` for a template.
 
+## Quick Start
+
+- **Local Testing**: See [QUICK_START.md](QUICK_START.md)
+- **WhatsApp Setup**: See [WHATSAPP_SETUP.md](WHATSAPP_SETUP.md)
+- **Deployment**: See [DEPLOYMENT.md](DEPLOYMENT.md)
+- **Local Testing Guide**: See [LOCAL_TESTING.md](LOCAL_TESTING.md)
